@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CacaoPizzaria/static/css/main.fff62f12.css",
-    "main.js": "/CacaoPizzaria/static/js/main.e6d9f9c2.js",
+    "main.js": "/CacaoPizzaria/static/js/main.e26d50d5.js",
     "static/js/787.d301000c.chunk.js": "/CacaoPizzaria/static/js/787.d301000c.chunk.js",
     "static/media/pizzaLeft.jpg": "/CacaoPizzaria/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
     "static/media/vegan.jpg": "/CacaoPizzaria/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
@@ -15,11 +15,11 @@
     "static/media/pedrotechspecial.jpg": "/CacaoPizzaria/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
     "index.html": "/CacaoPizzaria/index.html",
     "main.fff62f12.css.map": "/CacaoPizzaria/static/css/main.fff62f12.css.map",
-    "main.e6d9f9c2.js.map": "/CacaoPizzaria/static/js/main.e6d9f9c2.js.map",
+    "main.e26d50d5.js.map": "/CacaoPizzaria/static/js/main.e26d50d5.js.map",
     "787.d301000c.chunk.js.map": "/CacaoPizzaria/static/js/787.d301000c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fff62f12.css",
-    "static/js/main.e6d9f9c2.js"
+    "static/js/main.e26d50d5.js"
   ]
 }
