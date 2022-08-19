@@ -10,7 +10,7 @@ function footer() {
             <InstagramIcon/>
             <WhatsAppIcon/>
         </div>
-        <p>&copy; 2022 urlsite.com</p>
+        <p>&copy; 2022 https://maracujacake.github.io/CacaoPizzaria/</p>
     </div>
   )
 }
