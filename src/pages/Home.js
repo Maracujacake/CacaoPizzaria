@@ -8,9 +8,9 @@ function Home() {
     <div className='home' style={ {backgroundImage: `url( ${bannerImage} )`} }>
       <div className='header__container' >
         <h1>Cacau's Pizzaria</h1>
-        <p>PIZZA TO FIT ANY TASTE</p>
+        <p>PIZZAS PARA QUALQUER GOSTO</p>
         <Link to="/menu">
-        <button> ORDER NOW </button>
+        <button> PEÇA AGORA </button>
         </Link>
       </div>
     </div>

@@ -25,13 +25,15 @@
     height: 60px;
     font-weight: 190;
     color: black;
+    cursor: default;
   }
   
   .header__container p {
     padding: 0;
-    font-size: 40px;
+    font-size: 37px;
     font-weight: lighter;
     color: black;
+    cursor: default;
   }
   
   .header__container button {
@@ -94,5 +96,15 @@
     .header__container button:hover {
       background-color: rgb(225, 225, 225);
       color: #121619;
+    }
+  }
+
+  @media only screen and (max-width: 500px) {
+    .header__container p {
+      padding: 0;
+      font-size: 20px;
+      font-weight: Roboto;
+      color: white;
+      cursor: default;
     }
   }

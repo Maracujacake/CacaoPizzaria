@@ -19,3 +19,27 @@
   .footer p {
     color: white;
   }
+
+  @media only screen and (max-width: 651px) {
+    .footer{
+      margin-top: 20%;
+    }
+   }
+
+   @media only screen and (max-width: 446px) {
+    .footer{
+      margin-top: 40%;
+    }
+   }
+
+   @media only screen and (max-width: 371px) {
+    .footer{
+      margin-top: 80%;
+    }
+   }
+
+   @media only screen and (max-width: 300px) {
+    .footer{
+      margin-top: 180%;
+    }
+   }

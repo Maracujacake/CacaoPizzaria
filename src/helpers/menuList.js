@@ -7,32 +7,32 @@ import Expensive from '../assets/expensive.jpg';
 
 export const MenuList = [
   {
-    name: "Pepperoni Pizza",
+    name: "Pizza Calabresa",
     image: Pepperoni,
     price: 15.99,
   },
   {
-    name: "Margherita Pizza",
+    name: "Pizza Margherita",
     image: Margherita,
     price: 11.99,
   },
   {
-    name: "Cacau's Special Pizza",
+    name: "Pizza Especial da Cacau",
     image: CacauSpecial,
     price: 256.53,
   },
   {
-    name: "Vegan Pizza",
+    name: "Vegana",
     image: Vegan,
     price: 17.99,
   },
   {
-    name: "Pineapple Pizza",
+    name: "Pizza Abacaxi",
     image: Pineapple,
     price: 4.99,
   },
   {
-    name: "Very Expensive Pizza",
+    name: "Pizza Sushi",
     image: Expensive,
     price: 1997.99,
   },
